@@ -2,6 +2,9 @@
 
 An AI assistant that answers personal finance questions by **choosing and calling tools**. The LLM (GPT-4o-mini) decides which tool fits the question; the tools do all the arithmetic, so numbers are exact and never guessed by the model.
 
+
+## Live app : https://personal-finance-ai-agent-by-vineeth.streamlit.app/
+
 ## Tools
 
 | Tool | Purpose | Formula |
